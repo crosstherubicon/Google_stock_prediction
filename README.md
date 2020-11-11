@@ -1,4 +1,4 @@
-# Google stock trend prediction using Recurrent Neural Network
+# Google stock trend prediction using Recurrent Neural Networks
 
 Training a stacked LSTM model on 2012-2016 open Google stock price data to predict 2017 opening stock price using Recurrent Neural Network stacked LSTM. 
 
